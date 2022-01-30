@@ -1,0 +1,16 @@
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\bin\Debug\net5.0\Jogo-RPG-POO.exe
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\bin\Debug\net5.0\Jogo-RPG-POO.deps.json
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\bin\Debug\net5.0\Jogo-RPG-POO.runtimeconfig.json
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\bin\Debug\net5.0\Jogo-RPG-POO.runtimeconfig.dev.json
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\bin\Debug\net5.0\Jogo-RPG-POO.dll
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\bin\Debug\net5.0\ref\Jogo-RPG-POO.dll
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\bin\Debug\net5.0\Jogo-RPG-POO.pdb
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\obj\Debug\net5.0\Jogo-RPG-POO.csproj.AssemblyReference.cache
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\obj\Debug\net5.0\Jogo-RPG-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\obj\Debug\net5.0\Jogo-RPG-POO.AssemblyInfoInputs.cache
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\obj\Debug\net5.0\Jogo-RPG-POO.AssemblyInfo.cs
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\obj\Debug\net5.0\Jogo-RPG-POO.csproj.CoreCompileInputs.cache
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\obj\Debug\net5.0\Jogo-RPG-POO.dll
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\obj\Debug\net5.0\ref\Jogo-RPG-POO.dll
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\obj\Debug\net5.0\Jogo-RPG-POO.pdb
+C:\Users\windows 7\source\repos\Jogo-RPG-POO\Jogo-RPG-POO\obj\Debug\net5.0\Jogo-RPG-POO.genruntimeconfig.cache
